@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.6ff169ef.css","mappings":"AAGA,gBAFE,WASF,CAPA,UAME,kCAAsC,CALtC,cAAe,CAGf,QAAS,CACT,SAAU,CAHV,UAKF","sources":["index.css"],"sourcesContent":["#root {\n  height: 100%;\n}\nhtml, body {\n  font-size: 10px;\n  width: 100%;\n  height: 100%;\n  margin: 0;\n  padding: 0;\n  font-family: \"Public Sans\", sans-serif;\n}"],"names":[],"sourceRoot":""}
